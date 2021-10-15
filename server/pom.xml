@@ -24,7 +24,7 @@
     <dependencies>
         <dependency>
             <groupId>com.daddyrusher</groupId>
-            <artifactId>jmemcached-common</artifactId>
+            <artifactId>memcache-common</artifactId>
             <version>1.0-SNAPSHOT</version>
         </dependency>
 
